@@ -1,2 +1,4 @@
 Omega is the best case
 Big O is the worst case
+
+Remember a list is truthy if it has elements and falsy if it’s empty, so writing:
